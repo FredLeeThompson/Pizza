@@ -7,5 +7,5 @@
 * [My LinkedIn Profile](www.linkedin.com/in/fredleethompson/)
 
 ## Thanks
-To the Thinkful® team
+To the Thinkful® team, [@JenneyTheDeveloper](https://github.com/jennythedeveloper), [@JennyThinkful](https://github.com/jennythinkful)
 
